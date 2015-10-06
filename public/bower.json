@@ -1,0 +1,18 @@
+{
+  "name": "cilindros",
+  "version": "0.0.1",
+  "description": "api de prueba",
+  "main": "",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "Brayam Alarcon"
+  ],
+  "license": "MIT",
+  "homepage": "cilindros.me",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "bootstrap-material-design": "~0.3.0"
+  }
+}
